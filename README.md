@@ -1,5 +1,5 @@
 # NYU-CS9053-Final-Project
-This project is only for academic presentation and learning.
+This project is only for presentation and learning.
 
 DON'T COPY THE CODE TO CHEAT. YOU WILL VIOLATE THE ACADEMIC INTEGRITY.
 
